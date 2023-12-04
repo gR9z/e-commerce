@@ -31,7 +31,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-  ],
+, "src/app/_components/Footer/FooterComponent/index.tss"  ],
   "exclude": [
     "node_modules"
   ],
