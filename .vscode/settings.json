@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
